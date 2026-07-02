@@ -1,5 +1,5 @@
 Hello there 👋
-I'm Max,Starter full stack Java dev.
+I'm Min Aung San,Starter full stack Java dev.
 
 I am a type of guy who would works whole day if i'm in the mood.
 
